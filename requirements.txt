@@ -1,0 +1,13 @@
+# MiniCPM-o 2.6 依赖
+Pillow>=10.1.0
+torch>=2.3.1
+torchaudio>=2.3.1
+torchvision>=0.18.1
+transformers==4.44.2
+accelerate
+librosa>=0.9.0
+soundfile>=0.12.1
+vector-quantize-pytorch>=1.18.5
+vocos>=0.1.0
+# decord  # 视频处理，音频测试不需要
+moviepy

@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+._*
+
+# Output files
+outputs/
+
+# Audio files (keep test_input.wav)
+*.aiff
+*.mp3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model cache
+*.pt
+*.pth
+*.bin
+!requirements.txt
