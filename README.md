@@ -171,6 +171,9 @@ minicpm/
 3. 考虑使用专用 ASR 模型（如 Whisper）处理高噪声场景
 4. 增加麦克风数量（6-8个）可提升效果
 
+参考开源：https://github.com/modelscope/ClearerVoice-Studio
+
+
 ## License
 
 MIT
